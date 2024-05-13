@@ -1,3 +1,5 @@
+# Ask question about image content. Question is hardcoded.
+
 import requests
 from PIL import Image
 from transformers import BlipProcessor, BlipForConditionalGeneration
