@@ -1,4 +1,4 @@
-## AI Projects
+## AI Projects :open_file_folder:
 
 Testing and learning AI repository
 
@@ -8,8 +8,9 @@ Testing and learning AI repository
 * ChatGPTChatbot - chatbots with blenderbot model, with and without interface
 * WhisperSTT - need fixing, STT
 * stt_tss - App takes text or audio (microphone) input and answers in text with audio. IBM Watson and ChatGPT3.
+* stt_ai_assistant - Speech analyzer. Speech to text and analyze.
 
-### Authors tutorial
+#### Authors tutorial
 Adding git clone repository into existing repository and make changes
 ```
 * git clone SOMEREPOSITORY

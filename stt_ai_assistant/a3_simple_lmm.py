@@ -1,6 +1,7 @@
+# For app to work the credentials needed to access IBM's services are pre-arranged by the Skills Network team, so change them.
+
 # Uses llama2 LLM and Watsonx
 # Answer to hardcoded question.
-# The credentials needed to access IBM's services are pre-arranged by the Skills Network team, so change them.
 
 
 from ibm_watson_machine_learning.foundation_models import Model
