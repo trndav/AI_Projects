@@ -11,7 +11,7 @@ Testing and learning AI repository
 
 ### Authors tutorial
 Adding git clone repository into existing repository and make changes
-'''
+```
 * git clone SOMEREPOSITORY
 * Create new directory (TEST) and copy SOME REPOSITORY content to new directory
 * cd TEST
@@ -20,4 +20,4 @@ Adding git clone repository into existing repository and make changes
 * git add TEST
 * git commit -m "Added SOMEREPOSITORY"
 * git push origin main
-'''
+```
