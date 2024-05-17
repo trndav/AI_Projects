@@ -9,6 +9,7 @@ AI testing and learning repository
 * WhisperSTT - need fixing, STT
 * stt_tss - App takes text or audio (microphone) input and answers in text with audio. IBM Watson and ChatGPT3.
 * [stt_ai_assistant](https://github.com/trndav/AI_Projects/tree/main/stt_ai_assistant) - Speech analyzer. Speech to text and analyze.
+* document_analyzer - document (PDF) Analyzer - ask question about PDF content. LangChain, Llama2, Watsonx.
 
 #### Authors tutorial
 Adding git clone repository into existing repository and make changes
