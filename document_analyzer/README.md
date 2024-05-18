@@ -1,4 +1,5 @@
 # Document (PDF) Analyzer - ask question about PDF content
+Start: python server.py
 
 ## How to get watsonx API key and Project ID
 
