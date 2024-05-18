@@ -1,12 +1,18 @@
+* Need fixing with output
+
 # Document (PDF) Analyzer - ask question about PDF content
 Start: python server.py
+
+* This app needs a lot of resources to process PDF fast. Create short, 1 page PDF file for testing to speed up work.
+* This example use only HuggingFace API in worker.py os.environ["HUGGINGFACEHUB_API_TOKEN"] = "PASTE_HUGGINGFACEHUB_API_TOKEN_HERE"
+* Output needs fixing: first part is garbage, but last part "Helpful Answer" is correct.
+
 
 ## How to get watsonx API key and Project ID
 
 Here, we initialize a language model and its embeddings. Here's a brief description of each section of the script:
 
 - API and Project ID: Watsonx_API and Project_id are variables storing the API key and project ID required to access IBM's cloud services.
-
 
 - WatsonX LLM parameters Initialization: Inside the function, a dictionary named params is created, which holds various parameters like maximum and minimum number of tokens to generate, temperature (controlling randomness), and others for configuring the generation behavior of the language model.
 
